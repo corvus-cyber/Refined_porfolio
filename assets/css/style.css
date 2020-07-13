@@ -35,11 +35,16 @@ h3 {
                     padding-left: 2%;
                     margin-bottom: 2%;
                 }
-                .Skills {
+                .indent {
+                    text-indent: 4%;
+                }
+                .skills {
                     background-color:silver;
-                    padding-left: 15%;}
+                    padding-left: 2%;
+                    padding-right: 2%
+                }
                 #titleSkills {
-                    margin-right: 2%;
+                    margin-right: 5%;
                 }
                 .europe {background-color: silver;}
 
@@ -69,20 +74,21 @@ h3 {
     margin-right: auto;
 }
 
-
+.contactInfo {
+    text-align: center;
+    color: black;
+}
 
 
 .navFont {
-    font-size: 20px;
+    font-size: 16px;
 }
 
 
 
 .footer-copyright.text-center.py-3 {
     background-color: silver;
-
 }
-
 
 
 /*Provides formatting for the three htmls that overrides bootstrap*/
