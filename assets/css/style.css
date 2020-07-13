@@ -28,20 +28,36 @@ h3 {
     max-width: 400px;
 }
             /*Provides background color for the different columns in the index page*/
-                .col-md-7.m-3 {background-color:silver}
-                .col-md-4.mt-3.mb-3.ml-3 {background-color:silver ;}
-                .col-md-4.m-2 {background-color:silver;}
-                .col-md-3.m-2 {background-color: silver;}
+                .aboutMe {background-color:silver}
+                .Education {
+                    background-color:silver;
+                    padding-top: 2%;
+                    padding-left: 2%;
+                    margin-bottom: 2%;
+                }
+                .Skills {
+                    background-color:silver;
+                    padding-left: 15%;}
+                #titleSkills {
+                    margin-right: 2%;
+                }
+                .europe {background-color: silver;}
+
+                .frazierGroup {
+                    background-color: silver;
+                }
+
+                .KBH {
+                    background-color: silver;
+                }
 
 
 
 /*Formatting solely for the portfolio page*/
 .portfolioContainer {
-    padding-bottom: 20%;
+    margin-bottom: 5%;
 }
-h4 {
-    font-size: 30 px;
-}
+
 .card {
     margin-bottom: 5%
 }
@@ -56,7 +72,9 @@ h4 {
 
 
 
-
+.navFont {
+    font-size: 20px;
+}
 
 
 
