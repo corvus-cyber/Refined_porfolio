@@ -70,6 +70,10 @@ h3 {
 h4 {
     font-family: 'Courier New', Courier, monospace;
 }
+
+h5 {
+    font-family: 'Courier New', Courier, monospace;
+}
 /*Formatting solely for the portfolio page*/
 .portfolioContainer {
     margin-bottom: 5%;
