@@ -15,6 +15,7 @@ h1 {
 }
 
 h2 {
+    font-size: 35px;
     color: #ffffff;
     font-family: 'Courier New';
 }
@@ -23,6 +24,7 @@ h3 {
     font-size: 30px;
     font-family: 'Courier New', Courier, monospace;
     color: #ffffff;
+    
 }
 
 .img-fluid {
@@ -73,6 +75,10 @@ h4 {
 
 h5 {
     font-family: 'Courier New', Courier, monospace;
+}
+h6{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
 }
 /*Formatting solely for the portfolio page*/
 .portfolioContainer {
