@@ -22,6 +22,7 @@ h2 {
 h3 {
     font-size: 30px;
     font-family: 'Courier New', Courier, monospace;
+    color: #ffffff;
 }
 
 .img-fluid {
@@ -73,6 +74,7 @@ h4 {
 .portfolioContainer {
     margin-bottom: 5%;
     box-shadow: 0 0 10px; 
+    background-color: silver;
 }
 
 .card {
@@ -88,7 +90,8 @@ h4 {
 }
 
 .contactContainer{ 
-    box-shadow: 0 0 10px
+    box-shadow: 0 0 10px;
+    background-color: silver;
 }
 
 .contactInfo {
