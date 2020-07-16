@@ -7,9 +7,16 @@ body {
     background-color: steelblue;
 } 
 
-.nav-link {
-    color: #ffffff
+.navbar-brand{
+
+        display: block;
+        position: relative;
+        max-width: 20%;
 }
+.navbar-toggler-icon {
+    color: black;
+}
+
 /* Formatting for all of the pages */
 
 h1 {
@@ -21,14 +28,14 @@ h1 {
 
 h2 {
     font-size: 35px;
-    color: #ffffff;
+    color: black;
     font-family: 'Courier New';
 }
 
 h3 {
     font-size: 30px;
     font-family: 'Courier New', Courier, monospace;
-    color: #ffffff; 
+    color: black; 
 }
 h4 {
     font-family: 'Courier New', Courier, monospace;
@@ -124,11 +131,11 @@ h6{
     border-top: #d9dcd6;
     border-top-width: 1%;
     background-color: steelblue;
-    color:  #ffffff; 
+    color:  black
 }
 
 .copyrightLink {
-    color: #ffffff; 
+    color: black
 }
 
 
