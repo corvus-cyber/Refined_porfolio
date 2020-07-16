@@ -14,6 +14,10 @@ The purpose of this assignment was to take the original portfolio we built in as
 * I then designed and placed a unique logo for my brand in the nav bar to make my products immediately recognizable. 
 * Finally, I went and updated my github profile and linkedin profile attract potential employers. 
 
+# Issue I ran across:
+* Fixing the margins of the portfolio cards so that they wouldn't overlap during certain screen sizes. This took a lot of trial and error to get it right.
+
+
 # What I Learned:
 * It never hurts to return to old work and see what you can improve upon
 
@@ -26,5 +30,5 @@ The purpose of this assignment was to take the original portfolio we built in as
 
 * Github Profile:
  https://github.com/corvus-cyber
- 
+
 # Screenshots: 
