@@ -7,14 +7,16 @@ body {
     background-color: steelblue;
 } 
 
-.navbar-brand{
-
-        display: block;
-        position: relative;
-        max-width: 20%;
+.img-fluid{
+        max-width: 50%;
 }
+
 .navbar-toggler-icon {
     color: black;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    font-size: larger;
 }
 
 /* Formatting for all of the pages */
@@ -146,7 +148,8 @@ h6{
         width: 640px;
         position: absolute;
     } 
- .container {
+    .container {
          width: 100%;
-     }
+    }
+        
 }
